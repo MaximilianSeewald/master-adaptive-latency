@@ -1,5 +1,4 @@
-Adaptive Latency Compensation in First-Person
-Shooters using Artificial Neural Networks
+# Adaptive Latency Compensation in First-Person Shooters using Artificial Neural Networks
 
 
 ### Arduino-Delay:
