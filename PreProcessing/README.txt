@@ -1,0 +1,1 @@
+Die Daten "preProcessing.py" enthält den Pfad zu der YoloV5 library. Dieser muss individuel angepasst werden.
